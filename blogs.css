@@ -1,0 +1,16 @@
+.navbar{
+    background: #005E7D !important;
+}
+.bg-info{
+    background: #005E7D !important;
+}
+.rounded-start{
+    width: 100%;
+  height: 35vh;
+  object-fit: cover;
+}
+@media (min-width: 1400px) { 
+    .rounded-start{
+        height: 42vh;
+    }
+}
